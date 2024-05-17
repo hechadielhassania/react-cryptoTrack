@@ -61,7 +61,7 @@ To install CryptoTrack, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/hechadielhassania/CryptoTrack.git
+    git clone https://github.com/hechadielhassania/react-cryptoTrack
     ```
 2. Navigate to the project directory:
     ```bash
