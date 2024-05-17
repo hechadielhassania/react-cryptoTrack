@@ -1,7 +1,7 @@
 # CryptoTrack - Track Cryptocurrency Prices
 
-![CryptoTrack](./images/crypto_track.png)
-![CryptoTrack](./images/crypto_track2.png)
+![CryptoTrack](./src/assets/crypto_track.png)
+![CryptoTrack](./src/assets/crypto_track2.png)
 
 ## Description
 CryptoTrack is a simple web application that allows users to track cryptocurrency prices in real-time. It fetches data from the CoinGecko API and displays it in an organized manner.
